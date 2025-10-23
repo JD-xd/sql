@@ -9,3 +9,4 @@ The current schema, while useful for storing book details, lacks the functionali
 •	How do customer reviews correlate with a book's price and availability?    
 The project needs to address these questions by designing and executing a series of MySQL queries that transform the raw data into actionable intelligence. The project will also need to handle data integrity and consistency, ensuring the data is accurate for all reporting purposes.
 
+NOTE : Open .sql file in cli or workbench 
